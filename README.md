@@ -1,2 +1,2 @@
 # turbolift
-helper tools for turbolift
+helper tools for [turborepo](https://turborepo.com/)
